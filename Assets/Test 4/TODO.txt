@@ -1,10 +1,10 @@
 Problem :
 
 Move the object to the left and right with swerve input. Moving Object should stop by the obstacle bounds. 
-Make swerve input sensivity can be changed by the Designers.
+Make swerve input sensitivity can be changed by the Designers.
 
 Instructions :
 
 *Create your own code architecture that contains movement and input.
-*Swerve input must be public and changed via Unity Editor.
+*Swerve input sensitivity must be public and changed via Unity Editor.
 *Use given obstacles to create movement bounds. Obstacles are static and only there for bound reference.
