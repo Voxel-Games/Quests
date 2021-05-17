@@ -1,0 +1,8 @@
+Problem : 
+
+Literate through numbers 1 to 100 in 20 seconds and display them on the text object. For each number that is evenly divisible by 3, output the word “Fizz”. For every number that is evenly divisible by 5, output the word “Buzz”. Output the word “FizzBuzz” if the word is divisible by both 3 and 5.
+
+Instructions :
+
+*Locate to FizzBuzz script and solve the problem. 
+*Use "displayTxt" UnityEngine.UI.Text object to display output.

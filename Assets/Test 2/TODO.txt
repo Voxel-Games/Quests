@@ -1,0 +1,13 @@
+Problem :
+
+Create basic script that gets message from user and sends message to the reciever.
+
+Instructions :
+
+*Open "MessageSender" and "MessageReciever" C# scripts.
+
+*Use "userInput" InputField inside of the "MessageSender" script to recieve the user input.
+
+*Send given input to the "MessageReciever" script.
+
+*Display recieved input to the "recievedText" Text variable inside of the "MessageReciever" script.

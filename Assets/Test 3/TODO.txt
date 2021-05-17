@@ -1,0 +1,10 @@
+Problem :
+
+Make a movement completes in 60 seconds from A to B given points. A and B points are dynamic and can be edited in runtime. 
+Moving Object can be interrupted by any collision
+
+Instructions :
+
+*Use "Point" scripts to indicate points.
+*Create movement that completed in 60 seconds (if it is not interrupted) inside of the "MovingObject" C# script.
+*Obstacle can interrupt the movement of the moving object. Moving object should move after obstacle is removed.

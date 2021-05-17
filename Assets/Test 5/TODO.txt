@@ -1,0 +1,10 @@
+Problem :
+
+Move the ball from a point to b point in given time. User needs input that toggles between stop and play for the movement.
+
+Instructions :
+
+*Edit the "BallMovement" C# script and solve the problems.
+*Add Input that stops and plays the movement. Input must be available in editor for designers.
+*Change the ball movement logic to the time instead of steps.
+*You shouldn't change the basic created architecture of the code.
